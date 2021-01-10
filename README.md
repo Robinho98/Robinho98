@@ -8,7 +8,7 @@
 * Summer Project - [The Last Stand](https://play.unity.com/mg/other/the-last-stand-1)
 * GameCraft! 2020 - [I WON BY A BLOB!](https://llhy.itch.io/iwonbyablob)
 
-## Contact me via my [LinkedIn](https://www.linkedin.com/in/robin-ho-362485189/)
+#### Contact me via my [LinkedIn](https://www.linkedin.com/in/robin-ho-362485189/)
 
 <!--
 **Robinho98/Robinho98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
