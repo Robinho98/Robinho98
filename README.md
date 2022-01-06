@@ -1,6 +1,6 @@
 ### Hi there 👋 Welcome to my GitHub page!
 
-* Currently Year 2 Computer Science Student
+* Currently Year 3 Computer Science Student
 * Aspiring Game Developer
 
 ### Notable Projects
