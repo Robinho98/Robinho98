@@ -1,12 +1,14 @@
 ### Hi there 👋 Welcome to my GitHub page!
 
 * Currently Year 3 Computer Science Student
-* Aspiring Game Developer
+* Aspiring Game Developer/Software Engineer
 
 ### Notable Projects
 
 * Summer Project - [The Last Stand](https://play.unity.com/mg/other/the-last-stand-1)
 * GameCraft! 2020 - [I won by a blob!](https://llhy.itch.io/iwonbyablob)
+* CS3247 Game Development [Sol Labs](https://uvents.nus.edu.sg/event/18th-steps/module/CS3247/project/6)
+* CS4350 Game Development Project [Endangerous](https://uvents.nus.edu.sg/event/19th-steps/module/CS4350/project/3)
 
 #### Contact me via my [LinkedIn](https://www.linkedin.com/in/robin-ho-362485189/)
 
